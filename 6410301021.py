@@ -9,7 +9,7 @@ import math
 def sigmoid(x):
     return (math.e**x)/(1+math.e**x)
 
-#
+#ร่วม biao ในนี้เเล้ว 1 ตัวเเรกทั้งหมด
 x = np.array([[1,1,1,0,1,1,0],
              [1,0,1,1,0,0,1],
              [1,0,0,0,1,1,0],
